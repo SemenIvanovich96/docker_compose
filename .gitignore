@@ -14,3 +14,4 @@ __pycache__/
 # Временные файлы IDE
 .vscode/
 .pytest_cache/
+echo '.idea'
