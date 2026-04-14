@@ -1,0 +1,16 @@
+# Виртуальное окружение
+.venv/
+__pycache__/
+*.pyc
+
+# Docker
+.dockerignore
+.docker-compose.yml.+
+*.log
+
+# Локальные файлы
+.env
+
+# Временные файлы IDE
+.vscode/
+.pytest_cache/
